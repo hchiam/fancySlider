@@ -4,6 +4,7 @@
 A fancy slider display that loops through text options stored in an array.
 
 There are 3 sections:
+
 1) Basic, original concept, using 5 cells of a table with varying font sizes & colours (with the central "selected" item bolded and with slight background colour).  
 
 2) An extension of the original concept, but with 7 cells of a table, and alternation between using 4 or 5 cells to display, in order to give a more visual sense of "motion" of the options (as opposed to the basic original concept design in the 1st section).  
