@@ -18,4 +18,4 @@ An extension of the original concept, but with 7 cells of a table, and alternati
 Another extension/variation, using a button to display the central "selected" option.  There is also an optional button underneath it (it does not seem possible to change the text size of button content right now in qdex [May 2016], so you may opt to use this "external" button instead using the "internal" button's content display the "selected" option's text).
 
 # How to test out for use:  
-Copy the code into your qdex document, between <document> and </document>.  You could try editing the text options manually or programmatically in separate function calls, for example.
+Copy the code into your qdex document.  You could try editing the text options manually or programmatically in separate function calls, for example.
