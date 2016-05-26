@@ -11,7 +11,7 @@ Basic, original concept, using 5 cells of a table with varying font sizes & colo
 
 2) "sandboxForEvenFancierSliderDisplay":  
 
-An extension of the original concept, but with 7 cells of a table, and alternation between using 4 or 5 cells to display, in order to give a more visual sense of "motion" of the options (as opposed to the basic original concept design in the 1st section).  
+An extension of the original concept, but with 9 cells of a table, and alternation between using 4 or 5 cells to display, in order to give a more visual sense of "motion" of the options (as opposed to the basic original concept design in the 1st section).  
 
 3) "furthertesting":  
 
